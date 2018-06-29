@@ -1,0 +1,46 @@
+#caja1{
+	width: 50%;
+	padding:1%;
+	border:12px solid blue;
+	float: left;
+}
+#caja2{
+	width:50%;
+	 padding:3%;
+	border:15px solid red;
+	float: right;}
+#caja3{
+	width:50%
+	padding:10%
+	border:2px solid green;
+	float:left;
+	clear: left;
+}
+#caja4{
+	width:70%;
+	padding:10%;
+	border:30px solid blue;
+	float:left;
+	clear:left;
+}
+#caja4 img{
+	width: 100%;
+}
+#cajaAdam{
+	width:40%;
+	padding:2%;
+	border:2px solid red;
+	float:left;
+}
+#cajaLucky{
+	width:30%;
+	padding:1%;
+	border:2px solid red;
+	float:left;
+}
+#cajaRob{
+	width:30%;
+	padding:1%;
+	border:2px solid red;
+	float:left;
+}
